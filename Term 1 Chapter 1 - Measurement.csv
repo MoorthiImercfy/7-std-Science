@@ -1,0 +1,31 @@
+Question Type,Question,Options,Correct Answer,Explanation
+Multiple Choice,Which of the following is a derived unit?,"(a) mass, (b) time, (c) area, (d) length",c,Area is derived from length
+Multiple Choice,Which of the following is correct?,"(a) 1L=1cc, (b) 1L=10cc, (c) 1L=100cc, (d) 1L=1000cc",d,1 Liter equals 1000 cubic centimeters
+Multiple Choice,SI unit of density is,"(a) kg/m2, (b) kg/m3, (c) kg/m, (d) g/m3",b,The standard unit for density is kilogram per cubic meter
+Multiple Choice,Two spheres have equal mass and volume in the ratio 2:1. The ratio of their density is,"(a) 1:2, (b) 2:1, (c) 4:1, (d) 1:4",b,Density is directly proportional to mass and inversely proportional to volume
+Multiple Choice,Light year is the unit of,"(a) Distance, (b) time, (c) density, (d) both length and time",a,Light year measures the distance light travels in one year
+Fill in the blanks,Volume of irregularly shaped objects are measured using the law of _____,,Archimedes,Based on displacement of water
+Fill in the blanks,One cubic metre is equal to _____ cubic centimetre,,10^6,1 cubic meter = 1000000 cubic centimeters
+Fill in the blanks,Density of mercury is _____,,13600 kg/m3,Standard density of mercury at room temperature
+Fill in the blanks,One astronomical unit is equal to _____,,1.496×10^11m,Average distance between Earth and Sun
+Fill in the blanks,The area of a leaf can be measured using a _____,,graph sheet,Graph paper method for irregular shapes
+True/False,The region covered by the boundary of the plane figure is called its volume,,False,It is called area not volume
+True/False,Volume of liquids can be found using measuring containers,,True,Measuring containers are calibrated for volume measurement
+True/False,Water is denser than kerosene,,True,Water has higher density than kerosene
+True/False,A ball of iron floats in mercury,,True,Mercury is denser than iron
+True/False,A substance which contains less number of molecules per unit volume is said to be denser,,False,More molecules per unit volume means higher density
+Match the following,Area|Distance|Density|Volume|Mass,m2|light year|kg/m3|m3|kg,i-c|ii-a|iii-e|iv-b|d,Matching units with physical quantities
+Sequence,1L 100 cc 10 L 10 cc,,10 cc 100 cc 1L 10L,Arranging volumes in ascending order
+Sequence,Copper Aluminium Gold Iron,,Aluminium Iron Copper Gold,Arranging by density
+Analogy,Area: M2 :: Volume : _____,,M3,Unit analogy
+Analogy,Liquid : Litre :: Solid : _____,,cm3,Unit analogy for different states
+Analogy,Water: Kerosene :: _____ : Aluminium,,Iron,Density analogy
+Short Answer,What is fundamental quantity?,,A set of physical quantities which cannot be expressed in terms of any other quantities are known as fundamental quantities. Ex: Length mass time,Basic definition with examples
+Short Answer,Define mass. Mention its unit.,,Mass is the amount of matter contained in a body. Its unit is kilogram (kg),Definition with unit
+Short Answer,What are the multiples and sub multiples of mass?,,The multiples of mass are quintal and metric tonne. The sub-multiples of mass are gram and milligrams,Different mass units
+Short Answer,What is physical quantity?,,A quantity that can be measured is called a physical quantity. For example the length of a piece of cloth the time at which school begins,Definition with examples
+Short Answer,What do you mean by unit?,,The known measure of a physical quantity is called the unit of measurement,Basic definition
+Numerical Problem,A piece of iron weighs 230 g and has a volume of 20 cm3. Find the density of iron.,,11.5 g/cm3,Using density formula: density = mass/volume
+Numerical Problem,Find the mass of silver of volume 50 cm3 and density 10.5 g/cm3,,525 g,Using mass formula: mass = density × volume
+HOTS,Two spheres of same size are made from copper and iron respectively. Find the ratio between their masses. (Density of copper 8900 kg/m3 and iron 7800 kg/m3),,1.14:1,Using density ratio and equal volumes
+Crossword,SI unit of temperature|A derived quantity|Mass per unit volume|Maximum volume of liquid a container can hold,,KELVIN|VOLUME|DENSITY|CAPACITY,Across clues and answers
